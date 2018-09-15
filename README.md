@@ -3,6 +3,7 @@ Garbage In, Just Garbage Out
 
 쓰레기로 부터 시간을 절약하고 안구 정화를 위한 몸부림 입니다.
 
+```
 # Garbage in, Just Garbage out
 127.0.0.1     www.naver.com
 127.0.0.1     news.naver.com
@@ -21,3 +22,4 @@ Garbage In, Just Garbage Out
 127.0.0.1     www.newdaily.co.kr
 127.0.0.1     biz.newdaily.co.kr
 127.0.0.1     www.breaknews.com
+```
