@@ -1,5 +1,5 @@
 # GIGO
-__G__arbage __I__n, __J__ust __G__arbage Out
+Garbage In, Just Garbage Out
 
 쓰레기로 부터 시간을 절약하고 안구 정화를 위한 몸부림 입니다.
 
